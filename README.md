@@ -6,4 +6,3 @@ Expression levels of COPS5 in different subtypes of breast cancer patients were 
 https://tcga.xenahubs.net/download/TCGA.BRCA.sampleMap/HiSeqV2.gz,
 https://tcga.xenahubs.net/download/TCGA.BRCA.sampleMap/BRCA_clinicalMatrix.gz.
 
-Following https://rpubs.com/skyrosepark/396196.
